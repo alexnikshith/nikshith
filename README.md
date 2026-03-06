@@ -71,13 +71,15 @@ https://github.com/alexnikshith
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=alexnikshith&show_icons=true&theme=tokyonight" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexnikshith&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnikshith&layout=compact&theme=tokyonight" />
 
 </div>
 
