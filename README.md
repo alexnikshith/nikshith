@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alexnikshith&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/alexnikshith?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+</p>  
 
 <p align="center">
   <em>Creating solutions for real world problems using modern technologies</em>
