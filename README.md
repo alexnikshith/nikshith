@@ -129,96 +129,89 @@ https://github.com/alexnikshith
 </div> -->
 
 
-
-
 <!-- Header with Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=35ced3&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Nikshith+Gurram;Computer+Science+Student;Aspiring+Data+Analyst;Building+Tech+for+Real+World+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=35ced3&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Nikshith+Gurram;Computer+Science+Student;Aspiring+Data+Analyst;Building+Tech+for+Real+World+Problems" />
 </div>
 
 <div align="center">
-  <h3 align="center">Creating solutions for real-world problems using modern technologies.</h3>
+  <h3>Creating solutions for real-world problems using modern technologies.</h3>
 </div>
 
 <br/>
 
 <!-- About Me Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="150" align="right" alt="Coding Gif" />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="150" align="right"/>
 
 ## 🚀 About Me
 
-- 🎓 I’m a **Computer Science Student** passionate about building real-world solutions.  
-- 💻 I build applications using **modern technologies**.  
-- 🧠 Interested in **Machine Learning and Data Analytics**.  
-- ☁️ Exploring **Cloud Computing and DevOps**.  
-- 🔐 Learning **Cybersecurity concepts**.  
-- 💬 Ask me about **Python, React, Full Stack Development, and Data Analytics**.  
+- 🎓 I’m a **Computer Science Student** passionate about building real-world solutions  
+- 💻 I build applications using **modern technologies**  
+- 🧠 Interested in **Machine Learning and Data Analytics**  
+- ☁️ Exploring **Cloud Computing and DevOps**  
+- 🔐 Learning **Cybersecurity concepts**  
+- 💬 Ask me about **Python, React, Full Stack Development, and Data Analytics**  
 - 📫 Reach me at: **nikshithgurram2006@gmail.com**  
-
-- ⚡ Fun fact: I enjoy solving algorithm problems and building automation tools!
+- ⚡ Fun fact: I enjoy solving algorithm problems and building automation tools  
 
 <br/>
 
-<!-- Social Links -->
 ## 🌐 Connect with Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nikshith-gurram-04027b1b7/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/nikshith-gurram-04027b1b7/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/alexnikshith" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/alexnikshith">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:nikshithgurram2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,go,html,css,react,nodejs,flask,mongodb,mysql,git,docker,vscode&theme=dark" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,go,html,css,react,nodejs,flask,mongodb,mysql,git,docker,vscode&theme=dark"/>
 </div>
 
 <br/>
 
-<!-- Projects Section -->
 ## 🚀 Projects
 
 🔗 **GitHub Repository:**  
 👉 https://github.com/alexnikshith  
 
-*(Projects automatically update as I build more solutions.)*
-
 <br/>
 
-<!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-[![Nikshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexnikshith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/alexnikshith)
+<img src="https://github-readme-stats.vercel.app/api?username=alexnikshith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 <br/>
 
-[![Nikshith's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexnikshith&theme=tokyonight&hide_border=true&background=00000000)](https://github.com/alexnikshith)
+<!-- FIXED STREAK (NEW WORKING API) -->
+<img src="https://streak-stats.demolab.com?user=alexnikshith&theme=tokyonight&hide_border=true&background=00000000"/>
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexnikshith&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/alexnikshith)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnikshith&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
-<!-- Activity Graph -->
+<br/>
+
+## 📈 Activity Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexnikshith&theme=tokyo-night&bg_color=00000000&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexnikshith&theme=tokyo-night&bg_color=00000000&hide_border=true"/>
 </div>
 
 <br/>
